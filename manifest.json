@@ -1,6 +1,7 @@
 {
 
     "description": "Unpaywall",
+    "browser_specific_settings": {"gecko": {"id": "{a9e04b79-d568-4da0-8a74-25b4b5c10edd}"}},
     "manifest_version": 2,
     "name": "Unpaywall",
     "version": "1.0",
